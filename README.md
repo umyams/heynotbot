@@ -56,6 +56,7 @@ dan pesan.txt
 ```
 nano pesan.txt
 ```
+untuk save CTRL+X > Y > ENTER
 
 bisa juga pake cara lain ===>>> cek tutor di dc
 
