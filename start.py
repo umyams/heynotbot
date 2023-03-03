@@ -2,7 +2,7 @@ import random, yaml, time, sys, requests
 class Discord:
 
     def __init__(self, t):
-        self.base = "https://discord.com/api/v9"
+        self.base = "https://discord.com/api/v10"
         self.auth = { 'authorization': t }
         
     def getMe(self):
