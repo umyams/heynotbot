@@ -42,6 +42,9 @@ apt install python
 apt install python3
 ```
 ```
+apt install python3-pip
+```
+```
 cd heynotbot
 pip install -r requirements.txt
 ```
