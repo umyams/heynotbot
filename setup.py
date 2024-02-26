@@ -2,8 +2,8 @@ from setuptools import setup
 setup(
     name=heynotbot,
     version=0.1,
-    description=i dont know,
-    long_description=just trying,
+    description=i_dont_know,
+    long_description=just_trying,
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     download_url=DOWNLOAD_URL,
