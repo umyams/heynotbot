@@ -1,4 +1,4 @@
-import random, yaml, time, sys, requests
+import random, yaml, time, heyreplit, sys, requests
 class Discord:
 
     def __init__(self, t):
