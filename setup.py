@@ -10,5 +10,5 @@ setup(
     license=LICENSE,
     packages=['mypackage'],
     install_requires=[
-        'heyreplit==0.8',
+        'heyreplit==0.8'],
   )
