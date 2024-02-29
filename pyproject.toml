@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "heynotbot"
-version = "0.9"
+version = "1.2"
 authors = [
   { name="umyams", email="umyamc@gmail.com" },
 ]
