@@ -4,5 +4,19 @@ build-backend = "setuptools.build_meta"
 
 [tool.setuptools_scm]
 
+[project]
+name = "heynotbot"
+version = "0.9"
+authors = [
+  { name="umyams", email="umyamc@gmail.com" },
+]
+description = "powerfull tool to grinding on discord"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
 [project.urls]
 Homepage = "https://github.com/umyams/heynotbot"
