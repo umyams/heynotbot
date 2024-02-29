@@ -1,5 +1,5 @@
 [build-system]
-requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2", "heyreplit==0.8"]
+requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2" ]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools_scm]
@@ -13,6 +13,7 @@ authors = [
 description = "powerfull tool to grinding on discord"
 readme = "README.md"
 requires-python = ">=3.8"
+dependencies = "heyreplit==0.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
