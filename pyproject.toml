@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "heynotbot"
-version = "1.2"
+version = "2.0"
 authors = [
   { name="umyams", email="umyamc@gmail.com" },
 ]
@@ -23,3 +23,4 @@ classifiers = [
 ]
 [project.urls]
 Homepage = "https://github.com/umyams/heynotbot"
+repository = "https://github.com/umyams/heynotbot"
