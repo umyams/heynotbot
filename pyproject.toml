@@ -1,26 +1,6 @@
 [build-system]
-requires = ["setuptools>=45", "setuptools_scm[toml]>=6.2" ]
+requires = [
+  "setuptools >= 52.0.0",
+  "wheel >= 0.36.2",
+]
 build-backend = "setuptools.build_meta"
-
-[tool.setuptools_scm]
-
-[project]
-name = "heynotbot"
-version = "2.0"
-authors = [
-  { name="umyams", email="umyamc@gmail.com" },
-]
-description = "powerfull tool to grinding on discord"
-readme = "README.md"
-requires-python = ">=3.8"
-dependencies = [
-  'heyreplit==0.8',
-]
-classifiers = [
-    "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
-    "Operating System :: OS Independent",
-]
-[project.urls]
-Homepage = "https://github.com/umyams/heynotbot"
-repository = "https://github.com/umyams/heynotbot"
